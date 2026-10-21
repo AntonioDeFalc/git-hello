@@ -4,3 +4,4 @@ Idee per il sito del Pixel Café
 - form per prenotare un tavolo
 - cambiare i colori del footer
 - Cambiare il logo del sito 
+- Aggiungere link social
